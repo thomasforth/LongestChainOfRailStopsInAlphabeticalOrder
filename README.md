@@ -16,18 +16,12 @@ Service | Chain of consecutive stops in alphabetical order
 Plymouth To Aberdeen | Alnmouth, Dunbar, Edinburgh, Haymarket, Inverkeithing, Kirkcaldy, Markinch
 London Waterloo To Windsor & Eton Riverside | Barnes, Mortlake, North Sheen, Richmond (London), St Margarets (London), Twickenham, Whitton (London)
 Manchester Piccadilly To Alderley Edge | Burnage, East Didsbury, Gatley, Heald Green, Manchester Airport, Styal, Wilmslow
-Stansted Airport To Birmingham New Street
- | Audley End, Cambridge, Ely, Manea, March, Peterborough, Stamford
-Newark North Gate To Peterborough
- | Collingham, Hykeham, Lincoln, Metheringham, Ruskington, Sleaford, Spalding
-London Waterloo To Portsmouth & Southsea
- | Farncombe, Godalming, Haslemere, Liphook, Liss, Petersfield, Rowlands Castle
-Leeds To Aberdeen
- | Berwick-Upon-Tweed, Dunbar, Edinburgh, Haymarket, Inverkeithing, Kirkcaldy, Leuchars
-Sevenoaks To London Charing Cross
- | Chislehurst, Elmstead Woods, Grove Park, Hither Green, Lewisham, London Bridge, London Waterloo East
-Bedwyn To Reading
- | Bedwyn, Hungerford, Kintbury, Newbury, Newbury Racecourse, Thatcham, Theale
+Stansted Airport To Birmingham New Street | Audley End, Cambridge, Ely, Manea, March, Peterborough, Stamford
+Newark North Gate To Peterborough | Collingham, Hykeham, Lincoln, Metheringham, Ruskington, Sleaford, Spalding
+London Waterloo To Portsmouth & Southsea | Farncombe, Godalming, Haslemere, Liphook, Liss, Petersfield, Rowlands Castle
+Leeds To Aberdeen | Berwick-Upon-Tweed, Dunbar, Edinburgh, Haymarket, Inverkeithing, Kirkcaldy, Leuchars
+Sevenoaks To London Charing Cross | Chislehurst, Elmstead Woods, Grove Park, Hither Green, Lewisham, London Bridge, London Waterloo East
+Bedwyn To Reading | Bedwyn, Hungerford, Kintbury, Newbury, Newbury Racecourse, Thatcham, Theale
  
  ## Are you sure your calculations are right?
  No.
